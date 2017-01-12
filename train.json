@@ -1,0 +1,17 @@
+[{
+	"username": "John",
+	"message": "chinese beijing chinese",
+	"class": "china"
+}, {
+	"username": "Mellisa",
+	"message": "chinese chinese shanghai",
+	"class": "china"
+}, {
+	"username": "Mackenzie",
+	"message": "tokyo japan chinese",
+	"class": "japan"
+}, {
+	"username": "Alfred",
+	"message": "chinese macao",
+	"class": "china"
+}]

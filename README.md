@@ -2,6 +2,4 @@
 
 This is a nayve bayes classifier that classifies text.
 
-TODO:
-Comment and clean up
-Write a better readme
+This is the first thing I ever learnt about machine learning, and I'm leaving it here for the memories!
